@@ -1,4 +1,4 @@
-package core;
+package com.dio.flashcards.core;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
