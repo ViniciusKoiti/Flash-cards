@@ -1,7 +1,7 @@
-package com.dio.flashcards.mongo;
+package com.dio.flashcards.core.mongo;
 
-import com.dio.flashcards.mongo.converter.DateToOffsetDateTimeConverter;
-import com.dio.flashcards.mongo.converter.OffSetDatetimeToDateConvertor;
+import com.dio.flashcards.core.mongo.converter.DateToOffsetDateTimeConverter;
+import com.dio.flashcards.core.mongo.converter.OffSetDatetimeToDateConvertor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.convert.converter.Converter;

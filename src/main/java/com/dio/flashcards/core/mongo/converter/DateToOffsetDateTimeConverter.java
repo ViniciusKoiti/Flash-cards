@@ -1,4 +1,4 @@
-package com.dio.flashcards.mongo.converter;
+package com.dio.flashcards.core.mongo.converter;
 
 
 import org.springframework.core.convert.converter.Converter;

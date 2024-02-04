@@ -1,4 +1,4 @@
-package com.dio.flashcards.mongo.proviter;
+package com.dio.flashcards.core.mongo.provider;
 
 import org.springframework.data.auditing.DateTimeProvider;
 import org.springframework.stereotype.Component;
